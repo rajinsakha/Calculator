@@ -1,8 +1,7 @@
 import './App.css';
 import React, {useState} from 'react';
 import Navbar from './components/Navbar';
-import Calculator from './components/Calculator';
-
+import Calculator from './components/calculator';
 
 
 function App() {
